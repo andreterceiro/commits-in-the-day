@@ -1,1 +1,1 @@
-Very simlpe script to get the number of my commit today
+Very simlpe script to get the number of my commits today
