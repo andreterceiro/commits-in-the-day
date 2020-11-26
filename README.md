@@ -1,0 +1,1 @@
+Very simlpe script to get the number of my commit today
